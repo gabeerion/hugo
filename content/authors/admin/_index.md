@@ -28,10 +28,10 @@ education:
   courses:
   - course: PhD in Computer Science & Engineering
     institution: Paul G. Allen School of Computer Science & Engineering
-    year: current
+    year: 2021 (Expected)
   - course: MD
     institution: University of Washington Medical School
-    year: current
+    year: 2023 (Expected)
   - course: AB in Applied Mathematics
     institution: Harvard University
     year: 2015
